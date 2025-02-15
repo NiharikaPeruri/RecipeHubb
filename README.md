@@ -285,17 +285,3 @@ To run RecipeHub locally, follow these steps:
 
 ### Account Page
 <img width="948" alt="Account Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/896c1v3u0r881s1qhdh4.png">
-
-
-
-## Contributors
-
-RecipeHub is a teamwork project. Meet our awesome teammates:
-- Ayushmaan Rajput(team lead) - Email: ayushmaanrajput25feb@gmail.com
-- Nishant Singh - Email: nishantkr488@gmail.com
-- Ranvijay Tiwari - Email: ranvijaytiwari0000@gmail.com
-- Vamshikrishna Bejjarapu - Email: vamshikrishna99089@gmail.com
-
-*Note: This group project was developed in 5 days.*
-<br>
--------------------------------Thank You😊-----------------------------------------
